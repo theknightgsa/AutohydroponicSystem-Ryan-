@@ -1,0 +1,35 @@
+https://learn.circuit.rocks/how-to-control-the-raspberry-pi-gpio-using-c
+https://forums.raspberrypi.com/viewtopic.php?t=138208
+http://wiringpi.com/reference/core-functions/
+
+
+---------ultrasonic
+Connect VCC to 5V
+connect GND to GND
+Connect SIG to GPIO 23 which is pin 16
+
+gcc -o ultrasonicsensor ultrasonicsensor.c -l wiringPi
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------
+gcc -o Cpinpgrm Cpinpgrm.c -l wiringPi
+
+To run: 
+sudo ./GPIOc
+
+
+State of GPIO:
+raspi-gpio get
+
+
+

@@ -1,0 +1,46 @@
+Water distance in inches:242	TDS PPM:355	TIME:Sun Oct 22 13:48:52 2023
+
+Water distance in inches:341	TDS PPM:355	TIME:Sun Oct 22 13:48:54 2023
+
+Water distance in inches:4	TDS PPM:355	TIME:Sun Oct 22 13:48:56 2023
+
+Water distance in inches:247	TDS PPM:355	TIME:Sun Oct 22 13:48:58 2023
+
+Water distance in inches:242	TDS PPM:355	TIME:Sun Oct 22 13:59:29 2023
+
+Water distance in inches:248	TDS PPM:355	TIME:Sun Oct 22 13:59:31 2023
+
+Water distance in inches:248	TDS PPM:355	TIME:Sun Oct 22 13:59:33 2023
+
+Water distance in inches:245	TDS PPM:355	TIME:Sun Oct 22 13:59:35 2023
+
+Water distance in inches:247	TDS PPM:355	TIME:Sun Oct 22 13:59:37 2023
+
+Water distance in inches:236	TDS PPM:355	TIME:Sun Oct 22 13:59:39 2023
+
+Water distance in inches:572	TDS PPM:355	TIME:Sun Oct 22 13:59:41 2023
+
+Water distance in inches:248	TDS PPM:355	TIME:Sun Oct 22 13:59:43 2023
+
+Water distance in inches:242	TDS PPM:355	TIME:Sun Oct 22 13:59:45 2023
+
+Water distance in inches:601	TDS PPM:355	TIME:Sun Oct 22 13:59:47 2023
+
+Water distance in inches:247	TDS PPM:355	TIME:Sun Oct 22 13:59:49 2023
+
+Water distance in inches:605	TDS PPM:355	TIME:Sun Oct 22 13:59:51 2023
+
+Water distance in inches:604	TDS PPM:355	TIME:Sun Oct 22 13:59:53 2023
+
+Water distance in inches:565	TDS PPM:388	TIME:Sun Oct 22 14:04:10 2023
+
+Water distance in inches:527	TDS PPM:391	TIME:Sun Oct 22 14:04:12 2023
+
+Water distance in inches:10	TDS PPM:382	TIME:Sun Oct 22 14:04:14 2023
+
+Water distance in inches:18	TDS PPM:370	TIME:Sun Oct 22 14:04:16 2023
+
+Water distance in inches:19	TDS PPM:398	TIME:Sun Oct 22 14:04:18 2023
+
+Water distance in inches:435	TDS PPM:390	TIME:Sun Oct 22 14:04:20 2023
+
